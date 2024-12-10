@@ -1,0 +1,59 @@
+body{
+    background-color: #ffebcd; 
+    /*Muda a cor de fundo do site*/
+}
+h1{
+   font-family: Arial; 
+   /*Altera o tipo da fonte*/
+   font-size: 40px;
+   /*Altera o tamanho da fonte*/
+   text-align: center;
+   /*Centraliza o Texto*/
+   color:blue;
+}
+h2{
+    font-family: 'Times New Roman';
+    /*Altera o tipo da fonte*/
+    font-size: 35px;
+    /*Altera o tamanho da fonte*/
+    text-align: center;
+    /*Centraliza o Texto*/
+}
+p{
+    font-family: arial;
+    /*Altera o tipo da fonte*/
+    font-size: 25px;
+    /*Altera o tamanho da fonte*/
+    text-align: center;
+    /*Centraliza o Texto*/
+}
+.imagemPrincipal{
+    width: 500px; /*Altera a LARGURA*/
+    height: 300px; /*Altera a ALTURA*/
+}
+.instagram{
+   font-size: 30px;
+}
+.geral{
+    width: 900px;
+    margin: auto;
+    background-color: darkgray;
+    padding: 10px;
+    text-align: center;
+}
+header{
+    background-color: aliceblue;
+    padding: 5px;
+}
+nav{
+    background-color: aliceblue;
+    padding: 5px;
+    font-family: Arial;
+    font-weight: bold;
+}
+a:link{
+    color: rgb(0, 119, 255);
+}
+a:visited{
+    color: rgb(0, 255, 21);
+}
